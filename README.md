@@ -42,7 +42,9 @@ Source data for the chart:
 
 > [!NOTE]
 > If the tier changed, mods were rerolled too. In our case, we counted
-> these two outcomes separately. If you
+> these two outcomes separately. If you want, you can add *Tier change*
+> to *Rerolled mods* to have the affected maps in both categories,
+> while retaining *Tier change* as a separate category.
 
 ![lowtier](./images/lowtier.png)
 
