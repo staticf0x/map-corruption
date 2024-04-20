@@ -57,3 +57,20 @@ Source data for the chart:
 | 8 affixes     |     305 |
 | Vaal implicit |     333 |
 | Tier change   |     169 |
+
+## Blighted maps
+
+> [!NOTE]
+> Sample includes 19 T16 maps where *Tier change* is not possible.
+
+![blight](./images/blight.png)
+
+Source data for the chart:
+
+|               |   Count |
+|---------------|---------|
+| No effect     |     234 |
+| Rerolled mods |     133 |
+| 8 affixes     |     261 |
+| Vaal implicit |     250 |
+| Tier change   |     122 |
